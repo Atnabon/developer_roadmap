@@ -97,7 +97,7 @@ If you think that these can be improved in any way, please do suggest. Also, if 
 
 ## Development
 
-Clone the repository, install the dependencies and start the application
+Clone the repository, install the dependencies and Start the application
 
 ```bash
 git clone git@github.com:kamranahmedse/developer-roadmap.git
